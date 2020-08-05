@@ -50,3 +50,13 @@
 - 웹프론트와 백엔드와 같이 진행
   - 목표를 하나를 정하고, 하나의 작은 스토리 쓰기
 - 시나리오를 두가지 정도.
+
+### 화면 예시
+
+- ![screen-recording-_1_](https://user-images.githubusercontent.com/47213425/89416713-a3a08c80-d768-11ea-99a3-97159200c13a.gif)
+- ![screen-recording-_2_](https://user-images.githubusercontent.com/47213425/89416739-aef3b800-d768-11ea-9080-34a43f87e083.gif)
+- ![screen-recording-_4_](https://user-images.githubusercontent.com/47213425/89416751-b1eea880-d768-11ea-86f5-d8d5adfa080a.gif)
+- ![screen-recording-_3_](https://user-images.githubusercontent.com/47213425/89416758-b3b86c00-d768-11ea-8f2f-ec869ac4384f.gif)
+
+
+
